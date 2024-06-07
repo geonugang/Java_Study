@@ -1,2 +1,2 @@
-# Java_MiniGame
-1. Typing practice game with GUI
+# Java_Study
+1. branch - Java_MiniGame
