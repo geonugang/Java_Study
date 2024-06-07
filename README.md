@@ -1,2 +1,2 @@
-# Java_Study
-Study for Java
+# Java_MiniGame
+1. Typing practice game with GUI
